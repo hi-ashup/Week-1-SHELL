@@ -1,0 +1,2 @@
+# Week-1-SHELL
+GREEN AI INTERNS
