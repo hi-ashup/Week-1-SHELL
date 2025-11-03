@@ -24,4 +24,5 @@ This repository marks the completion of the first-week milestone. The primary ob
 ### 3. Next Steps (Week 2 Plan)
 -   Complete and push the data exploration and preprocessing script.
 -   Develop and train a baseline CNN model using transfer learning.
+
 -   Evaluate the baseline model's performance.
