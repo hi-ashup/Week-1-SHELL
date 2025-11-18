@@ -17,8 +17,10 @@ This repository marks the completion of the first-week milestone. The primary ob
 - **`README.md`**: Provides this comprehensive overview of the project.
 
 ### 2. Dataset Gathering and Analysis
-- **Dataset 1 Source:** [Garbage Classification Dataset on Kaggle](https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification)
-- **Dataset 2 Source:** *(Add the link to your chosen e-waste dataset here)*
+- **Dataset 1 Source:** [Garbage Classification (12 classes)
+Images dataset for classifying household garbage](https://www.kaggle.com/datasets/mostafaabla/garbage-classification)
+- **Dataset 2 Source:** *[Recyclable and Household Waste Classification
+15,000 Recyclable and Household Waste Images](https://www.kaggle.com/datasets/alistairking/recyclable-and-household-waste-classification)*
 - **Initial Analysis:** The Jupyter Notebook for the full exploratory data analysis has been created as a placeholder (`/notebooks/1_Data_Exploration_and_Preprocessing.ipynb`). It will be populated with the complete script and its output shortly. The core plan is to analyze class distribution and preprocess the data into four target categories.
 
 ### 3. Next Steps (Week 2 Plan)
@@ -26,3 +28,4 @@ This repository marks the completion of the first-week milestone. The primary ob
 -   Develop and train a baseline CNN model using transfer learning.
 
 -   Evaluate the baseline model's performance.
+
