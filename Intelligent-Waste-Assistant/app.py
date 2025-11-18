@@ -19,12 +19,6 @@ with st.sidebar:
     st.write("**Version:** 1.0.0")
 # ------------------------------------
 
-# 2. Hide Warnings
-st.set_option('deprecation.showfileUploaderEncoding', False)
-
-# --- HIDE WARNINGS ---
-st.set_option('deprecation.showfileUploaderEncoding', False)
-
 # --- LOAD MODEL ---
 @st.cache_resource
 def load_model():
