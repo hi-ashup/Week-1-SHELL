@@ -17,7 +17,7 @@ GREEN AI Skills Learnings and Application
 *   **Deployment:** Streamlit Cloud
 
 ## Live Demo
-[INSERT LIVE DEMO URL HERE]
+https://week-1-shell-6nlpmfkyfcmbjt4izcbdzo.streamlit.app/
 
 ## How to Run Locally
 1. Clone the repository.
@@ -25,6 +25,7 @@ GREEN AI Skills Learnings and Application
 3. Run the app: `streamlit run app.py`
 
 ## Preview
-<img width="1920" height="1020" alt="{4E869559-64F0-4E7F-B4EC-72B0A25AB79F}" src="https://github.com/user-attachments/assets/4c12857e-7982-43df-8e31-ee912ee8e223" />
+<img width="1920" height="1020" alt="{D7252EB4-428F-40F4-AE39-61300D2C8D14}" src="https://github.com/user-attachments/assets/0bb1f4aa-57a6-4f26-9e30-b3a18748cbc5" />
+
 
 
