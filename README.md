@@ -1,7 +1,7 @@
-# Week-1-SHELL
+# SHELL
 GREEN AI Skills Learnings and Application
 
-# Intelligent Waste Assistant ♻️
+# EcoSort: Your Intelligent Waste Assistant ♻️
 > An AI-powered web application helping households segregate waste correctly to save the planet.
 
 ## Features
