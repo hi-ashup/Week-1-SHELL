@@ -15,7 +15,7 @@ with st.sidebar:
         "Kaggle Garbage Classification dataset."
     )
     st.markdown("---")
-    st.write("**Developed by:** Astha Priyam(●'◡'●)) 
+    st.write("**Developed by:** Astha Priyam(●'◡'●)")
     st.write("**Version:** 1.0.0")
 # ------------------------------------
 
