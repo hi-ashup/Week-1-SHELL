@@ -1,2 +1,3 @@
 # Week-1-SHELL
-GREEN AI INTERNS
+GREEN AI Skills Learnings and Application
+
