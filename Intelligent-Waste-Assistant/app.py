@@ -22,7 +22,7 @@ with st.sidebar:
 # --- LOAD MODEL ---
 @st.cache_resource
 def load_model():
-    model = tf.keras.models.load_model('waste_classifier.h5')
+    model = tf.keras.models.load_model('final_model.h5')
     return model
 
 with st.spinner('Loading AI Model...'):
