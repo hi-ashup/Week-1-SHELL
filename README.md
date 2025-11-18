@@ -25,5 +25,6 @@ GREEN AI Skills Learnings and Application
 3. Run the app: `streamlit run app.py`
 
 ## Preview
-[INSERT GIF OF APP IN ACTION HERE]
+<img width="1920" height="1020" alt="{4E869559-64F0-4E7F-B4EC-72B0A25AB79F}" src="https://github.com/user-attachments/assets/4c12857e-7982-43df-8e31-ee912ee8e223" />
+
 
